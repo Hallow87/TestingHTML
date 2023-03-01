@@ -33,4 +33,12 @@
     margin-top: 8px;
     margin-right: 16px;
     font-size: 17px;
-    
+  }
+  /* photos */
+.photos {
+  size: 50px;
+}
+  /* headerit */  
+.headerit {
+  color: cadetblue;
+}
