@@ -42,3 +42,22 @@
 .headerit {
   color: cadetblue;
 }
+/* Zombie */
+.headerzombie {
+  font-size: 20px;
+  color: cadetblue;
+  margin: 5px 50px 5px 0px;
+  margin: 50px;
+  shape-outside: circle();
+  text-align: justify;
+}
+.zombiephoto {
+  width: 450px;
+  float: left;
+}
+.zombiephoto2 {
+  width: 450px;
+  float: right;
+  padding: 5px;
+  object-position: bottom;
+}
