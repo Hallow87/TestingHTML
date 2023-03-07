@@ -40,6 +40,24 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d8e0de', end
     margin-right: 16px;
     font-size: 17px;
   }
+  .banner {
+    background-color: #8ea6a2;
+    color: white;
+    padding: 4vh;
+    height: 10vh;
+  }
+  .banner2 {
+    background-color: #52485e;
+    color: white;
+    padding: 4vh;
+    height: 10vh;
+  }
+  .banner3 {
+    background-color: #2a0d4b;
+    color: white;
+    padding: 4vh;
+    height: 10vh;
+  }
   /* photos */
 .photos {
   size: 50px;
