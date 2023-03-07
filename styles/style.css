@@ -9,7 +9,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d8e0de', end
 
     overflow: hidden;
   }
-  
+  .span {
+    background-color: rgb(0, 0, 0);
+  }
   /* Nav link style */
   .topnav a {
     float: left;
@@ -45,6 +47,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d8e0de', end
     color: white;
     padding: 4vh;
     height: 10vh;
+    text-align: center;
   }
   .banner2 {
     background-color: #52485e;
@@ -57,6 +60,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d8e0de', end
     color: white;
     padding: 4vh;
     height: 10vh;
+  }
+  .footer {
+    margin-top: 40px;
+    font-size: 14px;
+    width: calc(100%-30px);
+    background-color: #aebfbc;
   }
   /* photos */
 .photos {
